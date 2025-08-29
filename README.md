@@ -3,20 +3,6 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://lh3.googleusercontent.com/pw/AP1GczNrzkwvqVY2KdpsnmHBYWERuRJIuQxqvW2EwKhF5lISsPVontKq1XBnTskZsrsMjn-MPxSRazpERkscp9ATexXJTw10O2PeHgpf0P66e2Le6FTPkw6VJhg3Bxl_rT70zAll7kDtQAw4qKYLEW6lCnk=w675-h1012-s-no-gm?authuser=0"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ramon-coost/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RamonCoost&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=pt-br&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamonCoost&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=monokai&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
@@ -46,6 +32,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RamonCoost/RamonCoost/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RamonCoost/RamonCoost/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ramon-coost/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
