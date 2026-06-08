@@ -1,50 +1,116 @@
-<h1 align="center">Olá! Sejam bem vindos ao meu GitHub!</h1>
+<h1 align="center">Olá, eu sou Ramon Costa 👋</h1>
 
-###
+<p align="center">
+  Desenvolvedor Java • Spring Boot • Angular
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamonCoost&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=pt-br&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamonCoost&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=monokai&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  Desenvolvedor Java em formação, construindo projetos com Spring Boot, Angular e boas práticas de desenvolvimento.
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=70A5FD&size=28&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Sempre+aprendendo+algo+novo+🚀" />
+</p>
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+### 🚀 Sobre mim
 
-###
+- 🎓 Estudante e Desenvolvedor em formação
+- ☕ Aprendendo e desenvolvendo projetos com Java e Spring Boot
+- 🅰️ Construindo interfaces web com Angular
+- 🐳 Explorando Docker e boas práticas de desenvolvimento
+- 📚 Sempre estudando novas tecnologias e conceitos de software
+- 🚀 Buscando oportunidades para crescer como Desenvolvedor Back-end ou Full Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamonCoost/RamonCoost/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RamonCoost/RamonCoost/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RamonCoost/RamonCoost/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### 🛠️ Linguagens e Ferramentas
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ramon-coost/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="Angular" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ IDEA" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="Postman" />
+
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramoncoost&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ramoncoost&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ramoncoost&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/ramoncoost">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</div>
 
-###
+   <a href="https://www.linkedin.com/in/ramon-coost/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RamonCoost.RamonCoost&"  />
-</div>
-
-###
+  <a href="ramoncoost@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+</p>
