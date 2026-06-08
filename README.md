@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Ramon Costa 👋</h1>
 
 <p align="center">
-  Desenvolvedor Java • Spring Boot • Angular
+  Desenvolvedor Java • Spring Boot • TypeScript • Angular
 </p>
 
 <p align="center">
